@@ -1,0 +1,17 @@
+car
+Model SEX
+25000
+2.0
+500000
+
+med
+Olaf Vinegar
+24
+10
+100000
+
+est
+New York, st. Neverson, 3, 4a
+100
+3
+1000000
